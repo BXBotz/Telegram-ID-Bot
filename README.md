@@ -13,15 +13,6 @@ License -> https://github.com/BXBotz/Telegram-ID-Bot/blob/main/LICENSE
 
 ---
 
-## Variables
-
-- `API_HASH` Your API HASH Get From my.telegram.org
-- `API_ID` Your API ID From my.telegram.org
-- `BOT_TOKEN` Your Bot TOKEN Get From @BotFather
-- `UPDATE_CHANNEL` Channel Username Without @
-
----
-
 # Deploy To Heroku
 
 <details><summary>Deploy To Heroku</summary>
@@ -46,6 +37,15 @@ python3 main.py
 ```
 
 </details>
+
+## Variables
+
+- `API_HASH` Your API HASH Get From my.telegram.org
+- `API_ID` Your API ID From my.telegram.org
+- `BOT_TOKEN` Your Bot TOKEN Get From @BotFather
+- `UPDATE_CHANNEL` Channel Username Without @
+
+---
 
 ---
 # ⚜️ About Bot
