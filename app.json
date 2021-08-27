@@ -1,0 +1,31 @@
+{
+    "name": "Telegram ID Bot",
+    "description": "A bot to find telegram user id easily",
+    "repository": "https://github.com/BXBotz/Telegram-ID-Bot",
+    "keywords": [
+        "telegram",
+        "telegram id",
+        "userid",
+        "id"
+    ],
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your Bot token Get From @Botfather"
+        },
+        "API_ID": {
+            "description": "Your API_ID Get From https://my.telegram.org/apps"
+        },
+        "API_HASH": {
+            "description": "Your API_HASH Get From https://my.telegram.org/apps"
+        },
+        "UPDATE_CHANNEL": {
+            "description": "Your Channel Username Without @",
+            "value": "BX_Botz"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
