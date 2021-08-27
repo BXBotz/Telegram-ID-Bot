@@ -22,18 +22,15 @@ License -> https://github.com/BXBotz/Telegram-ID-Bot/blob/main/LICENSE
 
 ---
 
-## Deploy To Heroku
+# Deploy To Heroku
 
-<details>
-  <summary><b>Deploy To Heroku</b></summary>
-<br/>
-
-<p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/BXBotz/Telegram-ID-Bot/tree/main">
-     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
-  </a>
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/BXBotz/Telegram-ID-Bot/tree/main">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 </p>
-
 </details>
 
 <details>
