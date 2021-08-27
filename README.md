@@ -46,8 +46,6 @@ python3 main.py
 - `UPDATE_CHANNEL` Channel Username Without @
 
 ---
-
----
 # ⚜️ About Bot
 
 - Telegram ID Bot
