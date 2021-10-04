@@ -1,4 +1,4 @@
-# Creator : https://GitHub.com/BXBotz >< https://telegram.me/BX_Botz [@BXBotz]
+# Creator : @saminsumesh>< https://t.me/housefull_links [house_links]
 
 import os
 from pyrogram import Client, filters
@@ -31,7 +31,7 @@ START_TEXT = """🆔 Your Telegram ID : `{}`"""
 
 START_BUTTON = InlineKeyboardMarkup(
              [[
-             InlineKeyboardButton('♻️ Updates Channel ♻️', url=f"https://telegram.me/{Config.UPDATE_CHANNEL}")
+             InlineKeyboardButton('♻️ Updates Channel ♻️', url=f"https://t.me/housefull_links")
              ]]
         )
 
