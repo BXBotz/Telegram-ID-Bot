@@ -6,7 +6,7 @@
 
 ```
 Made with Python3
-(C) @BXBotz
+(C) @housefull_links
 Copyright permission under MIT License
 License -> https://github.com/BXBotz/Telegram-ID-Bot/blob/main/LICENSE
 ```
